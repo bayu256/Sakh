@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cash26</string>
+    <string name="title_activity_cash26">Map</string>
+    <string name="Connection_success">Connection to Internet Success</string>
+    <string name="Connection_fail">Connection to Internet Fail</string>
+
+
+    <style name="Cash26" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+    </style>
+    <string name="title_activity_routenplaner">Map</string>
+
+</resources>
